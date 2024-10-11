@@ -86,6 +86,17 @@ generated_images/
 └── YugoGreek/
 ```
 
+Some example outputs:
+![African2](https://github.com/user-attachments/assets/e4d722db-f6eb-4de5-94e7-38eeacd4ed6e)
+![African1](https://github.com/user-attachments/assets/179a8f3d-6ea4-4385-80e0-02a128dfff59)
+![South American2](https://github.com/user-attachments/assets/5c1005ff-fb63-4141-9827-756ce7f7146b)
+![South American1](https://github.com/user-attachments/assets/5b4d3ad8-188c-490f-ba66-db87cf504b91)
+![SpanMed2](https://github.com/user-attachments/assets/e9cda4c3-0af6-4ff5-a5e0-dcab3209eee8)
+![SpanMed1](https://github.com/user-attachments/assets/4f15bc80-891a-409b-bf5b-d33971b09bb7)
+![MESA2](https://github.com/user-attachments/assets/9cb0d33a-351a-4643-8736-b79ff26b560d)
+
+
+
 ## Cost Calculation and User Confirmation
 
 Before beginning the image generation process, the script calculates the potential total cost based on the DeepInfra API pricing and the number of images to be generated (details in this link: https://deepinfra.com/black-forest-labs/FLUX-1-schnell/). It then displays this information to the user and asks for confirmation before proceeding. This allows users to make an informed decision about the cost before committing to the image generation process.
