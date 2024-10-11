@@ -87,13 +87,14 @@ generated_images/
 ```
 
 Some example outputs:
-![African2](https://github.com/user-attachments/assets/e4d722db-f6eb-4de5-94e7-38eeacd4ed6e)
-![African1](https://github.com/user-attachments/assets/179a8f3d-6ea4-4385-80e0-02a128dfff59)
-![South American2](https://github.com/user-attachments/assets/5c1005ff-fb63-4141-9827-756ce7f7146b)
-![South American1](https://github.com/user-attachments/assets/5b4d3ad8-188c-490f-ba66-db87cf504b91)
-![SpanMed2](https://github.com/user-attachments/assets/e9cda4c3-0af6-4ff5-a5e0-dcab3209eee8)
-![SpanMed1](https://github.com/user-attachments/assets/4f15bc80-891a-409b-bf5b-d33971b09bb7)
-![MESA2](https://github.com/user-attachments/assets/9cb0d33a-351a-4643-8736-b79ff26b560d)
+
+<img src="https://github.com/user-attachments/assets/e4d722db-f6eb-4de5-94e7-38eeacd4ed6e" alt="African2" width="250" height="250">
+<img src="https://github.com/user-attachments/assets/179a8f3d-6ea4-4385-80e0-02a128dfff59" alt="African1" width="250" height="250">
+<img src="https://github.com/user-attachments/assets/5c1005ff-fb63-4141-9827-756ce7f7146b" alt="South American2" width="250" height="250">
+<img src="https://github.com/user-attachments/assets/5b4d3ad8-188c-490f-ba66-db87cf504b91" alt="South American1" width="250" height="250">
+<img src="https://github.com/user-attachments/assets/e9cda4c3-0af6-4ff5-a5e0-dcab3209eee8" alt="SpanMed2" width="250" height="250">
+<img src="https://github.com/user-attachments/assets/4f15bc80-891a-409b-bf5b-d33971b09bb7" alt="SpanMed1" width="250" height="250">
+<img src="https://github.com/user-attachments/assets/9cb0d33a-351a-4643-8736-b79ff26b560d" alt="MESA2" width="250" height="250">
 
 
 
