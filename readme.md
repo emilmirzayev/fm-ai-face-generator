@@ -7,8 +7,8 @@ This tool generates AI faces for Football Manager, compatible with NewGan and si
 ## Requirements
 
 - Python 3.7 or higher
-- Football Manager
-- NewGan or compatible face pack installer
+- Football Manager (for playing)
+- NewGan or compatible face pack installer (for installing it to Football Manager)
 - DeepInfra API key
 
 ## Installation
