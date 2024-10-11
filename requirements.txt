@@ -1,0 +1,5 @@
+aiohttp
+Pillow
+python-dotenv
+rembg
+tqdm

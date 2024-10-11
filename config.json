@@ -1,0 +1,41 @@
+{"countries":{
+  "African": ["Nigeria", "Kenya", "South Africa", "Egypt", "Ghana"],
+  "Asian": ["China", "Japan", "India", "South Korea", "Vietnam"],
+  "Caucasian": ["United States", "Canada", "Australia", "New Zealand", "United Kingdom"],
+  "Central European": ["Germany", "Poland", "Czech Republic", "Austria", "Hungary"],
+  "EECA": ["Ukraine", "Kazakhstan", "Belarus", "Georgia", "Azerbaijan"],
+  "Italmed": ["Italy", "Greece", "Croatia", "Malta", "Cyprus"],
+  "MENA": ["Saudi Arabia", "UAE", "Iran", "Israel", "Morocco"],
+  "MESA": ["Pakistan", "Afghanistan", "Bangladesh", "Nepal", "Sri Lanka"],
+  "SAMed": ["Tunisia", "Algeria", "Libya", "Lebanon", "Jordan"],
+  "Scandinavian": ["Sweden", "Norway", "Denmark", "Finland", "Iceland"],
+  "Seasian": ["Indonesia", "Malaysia", "Thailand", "Philippines", "Singapore"],
+  "South American": ["Brazil", "Argentina", "Colombia", "Peru", "Chile"],
+  "SpanMed": ["Spain", "Portugal", "Andorra", "Gibraltar", "Monaco"],
+  "YugoGreek": ["Serbia", "Greece", "North Macedonia", "Montenegro", "Albania"]
+},
+"facial_characteristics": [
+  "beard",
+  "moustache",
+  "clean-shaven",
+  "stubble",
+  "goatee",
+  "sideburns",
+  null
+],
+"hair": [
+  "short",
+  "long",
+  "bald",
+  "buzz cut",
+  "medium-length",
+  "curly",
+  "wavy",
+  "spiky",
+  "afro",
+  "dreadlocks",
+  "mohawk",
+  "ponytail"
+],
+  "prompt": "Ultra realistic headshot with transparent background of a male soccer player looking at the camera being twenty five years old from {country} with {facial_characteristics}, and {hair} hair"
+}
