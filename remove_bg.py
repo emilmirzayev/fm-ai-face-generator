@@ -45,7 +45,7 @@ def process_directory(directory):
     with tqdm(total=total_files, desc="Processing images", unit="image") as pbar:
         for subdir, dirs, files in os.walk(directory):
             for file in files:
-                if file.lower().endswith(('.jpg', '.jpeg')):
+                if file.lower().endswith(('.jpg', '.jpeg', 'png')):
                     input_path = os.path.join(subdir, file)
                     output_filename = os.path.splitext(file)[0] + '.png'
                     output_path = os.path.join(subdir, output_filename)
