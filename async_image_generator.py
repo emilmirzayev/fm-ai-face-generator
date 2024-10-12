@@ -82,7 +82,7 @@ def save_image(image_bytes, folder, filename, resize=False):
 
 def get_next_image_number(folder):
     os.makedirs(folder, exist_ok=True)
-    existing_files = [f for f in os.listdir(folder) if f.endswith('.jpeg')]
+    existing_files = [f for f in os.listdir(folder) if f.endswith('.png')]
     return len(existing_files) + 1
 
 
@@ -138,7 +138,7 @@ async def generate_images_for_country_group(session, country_group, config, n_pe
     for i, image_bytes in enumerate(image_bytes_list):
             if image_bytes:
                 next_number = get_next_image_number(folder_name)
-                file_name = f"{country_group}{next_number}.jpeg"
+                file_name = f"{country_group}{next_number}.png"
                 save_image(image_bytes, folder_name, file_name, resize)
 
 
